@@ -1,7 +1,22 @@
 {
+<<<<<<< HEAD
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 700,
+  "editor.minimap.enabled": false
+}
+=======
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
     }
 }
+>>>>>>> 55740c5a29af914d637bcc18b7f1eaec7f6bbc14
