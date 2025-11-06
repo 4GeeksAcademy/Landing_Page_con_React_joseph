@@ -1,11 +1,16 @@
-/* 
+body{
+    background-color: rgb(255, 183, 0);
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.navbarColor{
+    background-color: rgba(2, 2, 2, 0.975);
+}
 
-*/
+.bgImage{
+    background-image: url(https://integratec.com/blog/imagenes/trabajo-equipo-productividad.webp);
+    background-size: cover;
+}
+
+.bgInfo{
+    background-color: rgba(0, 0, 0, 0.813);
+}
