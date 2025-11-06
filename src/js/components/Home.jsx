@@ -4,8 +4,8 @@ import React from "react";
 import rigoImage from "../../img/rigo-baby.jpg";
 import Navbar from "../components/Navbar.jsx";
 import Jumbotron from "../components/Jumbotron.jsx";
-import Card from "../components/CardFinal.jsx";
 import CardFinal from "../components/CardFinal.jsx";
+import Footer from "../components/Footer.jsx";
 
 //create your first component
 const Home = () => {
@@ -18,7 +18,7 @@ const Home = () => {
 			<CardFinal/>
 			</div>
 		</div>
-		
+		<Footer/>
 		</div>
 
 		
